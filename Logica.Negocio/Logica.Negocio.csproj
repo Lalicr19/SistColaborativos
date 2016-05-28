@@ -42,6 +42,9 @@
   <ItemGroup>
     <Compile Include="RealizarOperacion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resta.cs" />
+    <Compile Include="Multiplicacion.cs" />
+    <Compile Include="Division.cs" />
     <Compile Include="Suma.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
