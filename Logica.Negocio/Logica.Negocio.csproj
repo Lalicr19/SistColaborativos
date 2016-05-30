@@ -40,6 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Coseno.cs" />
+    <Compile Include="Log.cs" />
+    <Compile Include="LogDLogDD.cs" />
+    <Compile Include="Seno.cs" />
     <Compile Include="RealizarOperacion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resta.cs" />

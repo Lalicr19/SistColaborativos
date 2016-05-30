@@ -6,9 +6,14 @@ namespace Logica.Negocio
     {
         public double Operar(double operandoUno, double operandoDos)
         {
-            double elResultado;
+            double elResultado=0.0;
+            
             elResultado = operandoUno / operandoDos;
-            return (elResultado);
+
+
+            
+
+            return (operandoDos);
         }
     }
 }
